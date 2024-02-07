@@ -5,7 +5,7 @@ This website is a special tribute to Luna on her birthday, created by Jelena. It
 ## How to Access
 
 You can access the birthday website by visiting the following URL:
-[Insert URL here]
+https://jelpriv.github.io/luna-bday
 
 Feel free to explore and leave your birthday wishes for Luna in the guestbook!
 
